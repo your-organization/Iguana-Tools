@@ -1,0 +1,16 @@
+{
+    "LocalDependencies": [
+        "complexSchedule.lua"
+    ],
+    "LuaDependencies": [
+        "scheduler",
+        "store2"
+    ],
+    "OtherDependencies": [],
+    "timestamp": "1466099076",
+    "version_info": {
+        "build": 0,
+        "major": 6,
+        "minor": 0
+    }
+}
