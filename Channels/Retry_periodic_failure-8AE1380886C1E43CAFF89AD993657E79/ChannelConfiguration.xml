@@ -17,8 +17,8 @@
    </to_mapper>
    <from_mapper
       guid="Retry_periodic_failure-From-mWVEK3maZIb2vw"
-      commit_id="44b2544ff5752dcc3e53bb6172a433a8d54fe52f"
-      commit_comment="help"
+      commit_id="7366494e796836732d00e4a570c7f6bd2ecd3784"
+      commit_comment="fixed require"
       poll_time="100000">
    </from_mapper>
 </channel>
